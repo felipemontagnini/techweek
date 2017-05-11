@@ -1,0 +1,7 @@
+Abrir Git Bash
+
+cd Desktop/projeto/anotacoes
+git init .
+git add .
+git commit -m "First Commit"
+
